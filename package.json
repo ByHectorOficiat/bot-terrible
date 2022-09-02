@@ -11,7 +11,7 @@
     "node": "16.11.0",
     "npm": "8.0.0"
   },
-  "author": "dewstouh#1088",
+  "author": "ByHectorOficiat",
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.8.0",
