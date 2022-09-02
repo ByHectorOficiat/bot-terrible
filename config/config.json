@@ -1,7 +1,7 @@
 {
-    "token": "MTAxNDk2MTcyNTkzMTUyMDA0MA.GTqXhC.do1hkeX4_inwy1JxEu05WbHReGNG8j_1yjDyN8",
-    "prefix": "&",
-    "mongodb": "mongodb+srv://botterrible:uJ17uxoZtMerxNhY@cluster0.zaupjge.mongodb.net/BotTerrible?retryWrites=true&w=majority",
-    "ownerIDS": ["491685780029440000"],
-    "color": "#00192B"
+    "token": "",
+    "prefix": "",
+    "mongodb": "",
+    "ownerIDS": [""],
+    "color": "#"
 }
